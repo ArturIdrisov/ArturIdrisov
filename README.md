@@ -20,8 +20,8 @@
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="36" height="36"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="36" height="36"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>&nbsp;
@@ -31,7 +31,7 @@
 
 ## Проекты (выборочно)
 
-- Проект 1 — краткое описание. Ссылка: https://github.com/ArturIdrisov/example-1
+- Проект 1 — кратк��е описание. Ссылка: https://github.com/ArturIdrisov/example-1
 - Проект 2 — краткое описание. Ссылка: https://github.com/ArturIdrisov/example-2
 
 (Могу добавить подробные карточки проектов — пришлите, какие репозитории хотите выделить.)
