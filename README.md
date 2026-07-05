@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="33"/></h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p align="left"> <img src="https://gpvc.arturio.dev/ArturIdrisov" alt="arturidrisov" /> </p>
+<p align="left"> <img src="https://img.shields.io/github/followers/ArturIdrisov?label=Followers&style=social" alt="followers" /> </p>
 
 ### Connect with me :
 [<img src="./assets/icons/telegram.svg" alt='telegram' height='50'>](#) 
@@ -27,5 +27,5 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="./assets/icons/sqlite.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturIdrisov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturIdrisov&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArturIdrisov&" alt="arturidrisov" /></p>
