@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120">
+  <rect width="600" height="120" rx="8" fill="#fafafa" stroke="#e1e4e8"/>
+  <text x="50%" y="30" font-size="18" fill="#333" font-family="Arial" text-anchor="middle">Top languages (snapshot)</text>
+  <g transform="translate(30,50)">
+    <rect x="0" y="0" width="240" height="18" fill="#3572A5"/>
+    <text x="0" y="36" font-size="12" fill="#333" font-family="Arial">Python — 65%</text>
+    <rect x="260" y="0" width="160" height="18" fill="#F1E05A"/>
+    <text x="260" y="36" font-size="12" fill="#333" font-family="Arial">JavaScript — 25%</text>
+  </g>
+</svg>
